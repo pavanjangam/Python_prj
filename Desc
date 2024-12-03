@@ -1,0 +1,6 @@
+Description: Create a tool that uses a generative AI model (like OpenAI's GPT) to draft email responses based on the context of received emails.
+Features:
+	◦	Automatically categorize and prioritize emails.
+	◦	Generate draft responses for review.
+	◦	Learn from past responses to improve suggestions.
+Integration: Use OpenAI's API to generate text.
